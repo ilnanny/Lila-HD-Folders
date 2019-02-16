@@ -9,23 +9,25 @@
 #  
 #Change color ,eg.from standard to ...:
 #  
-#e0a55a   standard-color
+#e0a55a  standard-color
 #  
 #359bfa   blue
 # sed -i "s/#e0a55a/#359bfa/g" *.svg
 # 2e8d13   green
- #  sed -i "s/#e0a55a /#2e8d13/g" *.svg
+ #  sed -i "s/#e0a55a/#2e8d13/g" *.svg
 # dec993   kaki
-#  sed -i "s/#e0a55a /#dec993 /g" *.svg
+#  sed -i "s/#e0a55a/#dec993 /g" *.svg
 # d6d6d6   ligth-gray
-# sed -i "s/#e0a55a /#c0c0c0ff /g" *.svg
+# sed -i "s/#e0a55a/#c0c0c0ff /g" *.svg
 # 4E5558   dark
-#  sed -i "s/#e0a55a /#4E5558/g" *.svg
+#  sed -i "s/#e0a55a/#4E5558/g" *.svg
 # C094C0   purple
-# sed -i "s/#e0a55a /#C094C0/g" *.svg
+# sed -i "s/#e0a55a/#C094C0/g" *.svg
+#c30052   crimson
+# sed -i "s/#e0a55a/#c30052/g" *.svg
 #  ===  ===  ===  ===  ===  ===  ===  ===  ===
  exit 0
- 
+
  
  
  
